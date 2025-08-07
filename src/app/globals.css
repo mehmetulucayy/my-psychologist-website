@@ -1,0 +1,10 @@
+/* src/app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #f0f0f0; /* Açık gri bir arka plan */
+  color: #333333; /* Koyu metin rengi */
+}
