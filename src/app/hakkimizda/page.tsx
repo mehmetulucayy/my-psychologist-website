@@ -8,7 +8,7 @@ export default function HakkimizdaPage() {
       <h1 className="text-4xl font-bold text-center mb-8 text-gray-800">Hakkımızda</h1>
       <div className="max-w-3xl mx-auto text-lg leading-relaxed text-gray-700">
         <p className="mb-4">
-          Dr. Begüm Sena Yılmaz olarak, ruh sağlığınızın önemine inanıyor ve bu yolda sizlere güvenli, destekleyici ve gizliliği esas alan bir ortam sunmayı hedefliyoruz. Her bireyin eşsiz bir hikayesi olduğuna ve bu hikayenin derinlemesine anlaşılması gerektiğine inanıyoruz.
+          Dr.  olarak, ruh sağlığınızın önemine inanıyor ve bu yolda sizlere güvenli, destekleyici ve gizliliği esas alan bir ortam sunmayı hedefliyoruz. Her bireyin eşsiz bir hikayesi olduğuna ve bu hikayenin derinlemesine anlaşılması gerektiğine inanıyoruz.
         </p>
         <p className="mb-4">
           Uzmanlık alanlarımız depresyon, anksiyete, stres yönetimi, ilişki sorunları, kişisel gelişim, çift ve aile terapisi konularını kapsamaktadır. Bireysel terapi seansları, çift terapisi ve online terapi seçenekleri ile sizlere en uygun desteği sunmaktayız.

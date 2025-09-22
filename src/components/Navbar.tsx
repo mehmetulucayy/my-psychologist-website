@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <header className="bg-white shadow-md py-4 px-6 flex justify-between items-center">
       <Link href="/" className="text-2xl font-bold text-blue-800">
-        Dr. Begüm Sena Yılmaz
+        Dr. 
       </Link>
      
       <nav className="flex-grow flex justify-center">

@@ -10,7 +10,7 @@ export default function HizmetlerPage() {
     <div className="container mx-auto px-4 py-16 max-w-6xl">
       <h1 className="text-5xl md:text-6xl font-extrabold text-blue-800 mb-10 text-center leading-tight">Hizmetlerimiz</h1>
       <p className="text-xl text-gray-700 text-center mb-12 max-w-3xl mx-auto">
-        Dr. Begüm Sena Yılmaz olarak, bireylerin ve ailelerin psikolojik iyi oluşlarını desteklemek amacıyla çeşitli terapi ve danışmanlık hizmetleri sunmaktayız. İhtiyaçlarınıza özel çözümler için aşağıdaki hizmetlerimizi inceleyebilirsiniz.
+        Dr. olarak, bireylerin ve ailelerin psikolojik iyi oluşlarını desteklemek amacıyla çeşitli terapi ve danışmanlık hizmetleri sunmaktayız. İhtiyaçlarınıza özel çözümler için aşağıdaki hizmetlerimizi inceleyebilirsiniz.
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

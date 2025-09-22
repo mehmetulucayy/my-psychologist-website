@@ -12,7 +12,7 @@ const Footer = () => {
           <h3 className="text-xl font-semibold mb-4">İletişim</h3>
           <p className="text-gray-300">Adres: Kızılırmak Mahallesi, 1443. Cadde No:17, Çankaya/Ankara</p>
           <p className="text-gray-300">Telefon: (0312) 273 4550</p>
-          <p className="text-gray-300">E-posta: begumsenayilmaz@gmail.com</p>
+          <p className="text-gray-300">E-posta: @gmail.com</p>
         </div>
 
         {/* Sütun 2: Hızlı Bağlantılar */}
@@ -42,7 +42,7 @@ const Footer = () => {
               <FaEnvelope />
             </a>
           </div>
-          <p className="text-gray-400 text-sm mt-6">&copy; {new Date().getFullYear()} Dr. Begüm Sena Yılmaz. Tüm Hakları Saklıdır.</p>
+          <p className="text-gray-400 text-sm mt-6">&copy; {new Date().getFullYear()} Dr.. Tüm Hakları Saklıdır.</p>
         </div>
       </div>
     </footer>

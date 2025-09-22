@@ -8,7 +8,7 @@ export default function Home() {
       {/* Kahraman Bölümü */}
       <section className="w-full bg-gradient-to-r from-blue-100 to-blue-200 py-20 px-4 text-center">
         <h1 className="text-5xl md:text-6xl font-extrabold text-blue-800 mb-6 leading-tight">
-          Dr. Begüm Sena Yılmaz
+          Dr.
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto mb-8">
           Psikolojik Sağlığınız İçin Güvenilir ve Destekleyici Bir Ortam
