@@ -24,7 +24,7 @@ export default function IletisimPage() {
           </h2>
           <div className="space-y-4 text-lg text-gray-700">
             <p>
-              <strong>Adres:</strong> Kızılırmak Mahallesi, 1443. Cadde No:17,
+              <strong>Adres:</strong> Kızılırmak Mahallesi,,
               Çankaya/Ankara
             </p>
             <p>
@@ -42,7 +42,7 @@ export default function IletisimPage() {
                 href="mailto:begumsenayilmaz@gmail.com"
                 className="text-blue-600 hover:underline"
               >
-                begumsenayilmaz@gmail.com
+                @gmail.com
               </a>
             </p>
             <p>
@@ -115,14 +115,14 @@ export default function IletisimPage() {
       {/* Google Maps */}
       <div className="relative" style={{ paddingBottom: "56.25%", height: 0 }}>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3059.739770549444!2d32.85974001539266!3d39.92077097942635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34f0d3b6f0f01%3A0x6a0f0f0f0f0f0f0f!2sK%C4%B1z%C4%B1l%C4%B1rmak%20Mahallesi%2C%201443.%20Cadde%20No%3A17%2C%20%C3%87ankaya%2FAnkara!5e0!3m2!1str!2str!4v1678912345678!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12159.891234567!2d32.7994372!3d39.9035775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34f54a05f73f9%3A0x9d7f1e2c515f1786!2sK%C4%B1z%C4%B1l%C4%B1rmak%2C%2006510%20%C3%87ankaya%2FAnkara!5e0!3m2!1str!2str!4v1234567890123!5m2!1str!2str"
           width="100%"
           height="100%"
           style={{ border: 0, position: "absolute", top: 0, left: 0 }}
           allowFullScreen
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-          title="Dr. Begüm Sena Yılmaz Konumu"
+          title="Dr.Konumu"
         ></iframe>
       </div>
 

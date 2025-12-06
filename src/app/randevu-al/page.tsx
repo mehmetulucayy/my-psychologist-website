@@ -20,10 +20,10 @@ export default function RandevuAlPage() {
 " className="text-blue-600 hover:underline">(0312) 273 4550</a>
         </p>
         <p className="text-lg text-gray-700 mb-4">
-          E-posta: <a href="mailto:begumsenayilmaz@gmail.com" className="text-blue-600 hover:underline">@gmail.com</a>
+          E-posta: <a href="mailto:@gmail.com" className="text-blue-600 hover:underline">@gmail.com</a>
         </p>
         <p className="text-lg text-gray-700">
-          Adres: Kızılırmak Mahallesi, 1443. Cadde No:17, Çankaya/Ankara
+          Adres: Kızılırmak Mahallesi,Çankaya/Ankara
         </p>
       </div>
 
