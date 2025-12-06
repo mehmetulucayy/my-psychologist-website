@@ -16,8 +16,7 @@ export default function RandevuAlPage() {
       <div className="bg-white p-8 rounded-lg shadow-lg mb-10">
         <h2 className="text-3xl font-bold text-gray-800 mb-6">İletişim Bilgileri</h2>
         <p className="text-lg text-gray-700 mb-4">
-          Telefon: <a href="tel:(0312) 273 4550
-" className="text-blue-600 hover:underline">(0312) 273 4550</a>
+          Telefon: <a href="tel:(0312) 000 0000" className="text-blue-600 hover:underline">(0312) 000 0000</a>
         </p>
         <p className="text-lg text-gray-700 mb-4">
           E-posta: <a href="mailto:@gmail.com" className="text-blue-600 hover:underline">@gmail.com</a>

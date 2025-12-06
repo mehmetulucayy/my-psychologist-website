@@ -267,8 +267,7 @@ Bu proje özel kullanım içindir.
 
 ## 📞 İletişim
 
-- **Telefon:** (0312) 273 4550
-- **Adres:** Kızılırmak Mahallesi, Çankaya/Ankara
+- **E-posta:** mehmetulucayy32@gmail.com
 
 ---
 

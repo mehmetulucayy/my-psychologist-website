@@ -1,4 +1,3 @@
-// src/app/iletisim/page.tsx
 "use client";
 
 import React from "react";
@@ -30,16 +29,16 @@ export default function IletisimPage() {
             <p>
               <strong>Telefon:</strong>{" "}
               <a
-                href="tel:+903122734550"
+                href="tel:+903120000000"
                 className="text-blue-600 hover:underline"
               >
-                (0312) 273 4550
+                (0312) 000 0000
               </a>
             </p>
             <p>
               <strong>E-posta:</strong>{" "}
               <a
-                href="mailto:begumsenayilmaz@gmail.com"
+                href="mailto:@gmail.com"
                 className="text-blue-600 hover:underline"
               >
                 @gmail.com
